@@ -12,6 +12,10 @@ The dataset used in this analysis contains historical daily closing prices of HD
 ### Yearly Changes
 - Calculated the difference between the closing price of the first and last trading days for each year.
 - Visualized yearly losses and gains using a bar chart.
+- ![image](https://github.com/mohansree14/HDFC-Bank-Stock-Price-analysis/assets/113782905/695b2e84-4021-4582-ae0f-040a1bf543e4)
+- ![image](https://github.com/mohansree14/HDFC-Bank-Stock-Price-analysis/assets/113782905/1bbd3d1d-1bcb-4c82-aa65-a23e1021d87d)
+
+
 
 ### Stock Prices Over Time
 - Plotted the closing prices of HDFC Bank stock over various years to visualize the trends and fluctuations.
@@ -27,10 +31,13 @@ The dataset used in this analysis contains historical daily closing prices of HD
 - Split the data into training and testing sets.
 - Defined and fitted the SARIMA model to the training data.
 - Forecasted future prices and evaluated model performance using MAE, MSE, and RMSE.
+- ![image](https://github.com/mohansree14/HDFC-Bank-Stock-Price-analysis/assets/113782905/fd8a34cf-e0c4-4be4-9b30-c84ae93959c4)
+
 
 ### ARIMA Model
 - Defined and fitted the ARIMA model to the training data.
 - Forecasted future prices using ARIMA and evaluated its performance.
+- 
 
 ## Evaluation Metrics
 - Mean Absolute Error (MAE)
@@ -40,6 +47,9 @@ The dataset used in this analysis contains historical daily closing prices of HD
 ## Results and Insights
 - The SARIMA and ARIMA models were able to forecast future prices with reasonable accuracy.
 - The models provided insights into potential future price trends, but it is essential to consider external factors that may influence stock prices.
+
+- ![image](https://github.com/mohansree14/HDFC-Bank-Stock-Price-analysis/assets/113782905/e903ef0f-bfa4-40d3-b9c2-c091e0e9ec67)
+
 
 ## Conclusion
 While the analysis and models provide valuable insights into HDFC Bank stock prices, it is crucial to exercise caution and maintain a prudent approach to decision-making. The forecasts should be viewed as guidance rather than absolute predictions of future prices. Continuous monitoring and refinement of the models are necessary to adapt to changing market conditions and dynamics.
